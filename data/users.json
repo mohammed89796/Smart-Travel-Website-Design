@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1775491397050",
+    "name": "mohammed magdy",
+    "email": "mohammedmagdyr028@gmail.com",
+    "password": "$2b$10$t9/Qf2/ZgStBzbk3jIcq2.ObvInhGE0m/OuFdZENFhheMEEOAe.G6",
+    "phone": "",
+    "createdAt": "2026-04-06T16:03:17.050Z"
+  },
+  {
+    "id": "1775492818165",
+    "name": "ahmed hassan",
+    "email": "mohammedmagdyr0288@gmail.com",
+    "password": "$2b$10$qpHBImpq6Q7Ul6WYcZgYHOUklCpZ3W1TmNJR8ycjq9pzRH7rf/kji",
+    "phone": "",
+    "createdAt": "2026-04-06T16:26:58.165Z"
+  }
+]

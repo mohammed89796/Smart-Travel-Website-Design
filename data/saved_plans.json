@@ -1,0 +1,431 @@
+[
+  {
+    "id": "1775492758046",
+    "userId": "1775491397050",
+    "name": "Egypt Tour 5 Days",
+    "destination": "Multiple Cities",
+    "duration": 5,
+    "budget": 5000,
+    "status": "upcoming",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800",
+    "description": "AI-generated itinerary tailored to your budget and interests.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Traditional ful medames & ta'meya",
+          "lunch": "Nile-side seafood dining",
+          "dinner": "Rooftop dinner with pyramids view"
+        },
+        "totalDayCost": 1150
+      },
+      {
+        "day": 2,
+        "title": "Day 2",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Continental breakfast",
+          "lunch": "Traditional Egyptian mezze",
+          "dinner": "Traditional Egyptian feast"
+        },
+        "totalDayCost": 1150
+      },
+      {
+        "day": 3,
+        "title": "Day 3",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Authentic Egyptian breakfast",
+          "lunch": "Nubian cuisine experience",
+          "dinner": "Nile cruise dinner"
+        },
+        "totalDayCost": 1150
+      },
+      {
+        "day": 4,
+        "title": "Day 4",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Hotel buffet with Egyptian specialties",
+          "lunch": "Authentic kebab & kofta",
+          "dinner": "Bedouin-style dinner"
+        },
+        "totalDayCost": 1150
+      },
+      {
+        "day": 5,
+        "title": "Day 5",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Traditional ful medames & ta'meya",
+          "lunch": "Local koshari restaurant",
+          "dinner": "Fine dining at signature restaurant"
+        },
+        "totalDayCost": 1150
+      }
+    ],
+    "createdAt": "2026-04-06T16:25:58.046Z"
+  },
+  {
+    "id": "1775492849247",
+    "userId": "1775492818165",
+    "name": "Egypt Tour 1 Days",
+    "destination": "Multiple Cities",
+    "duration": 1,
+    "budget": 5000,
+    "status": "draft",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800",
+    "description": "AI-generated draft trip. Review then book when ready.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1"
+      }
+    ],
+    "createdAt": "2026-04-06T16:27:29.247Z"
+  },
+  {
+    "id": "1775492853887",
+    "userId": "1775492818165",
+    "name": "Egypt Tour 1 Days",
+    "destination": "Multiple Cities",
+    "duration": 1,
+    "budget": 5000,
+    "status": "upcoming",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800",
+    "description": "AI-generated itinerary tailored to your budget and interests.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1",
+        "destinations": [
+          {
+            "name": "Karnak & Luxor Temples",
+            "city": "Luxor",
+            "time": "09:00 AM"
+          },
+          {
+            "name": "Valley of the Kings",
+            "city": "Luxor",
+            "time": "02:00 PM"
+          }
+        ],
+        "accommodation": "Iberotel Aswan",
+        "meals": {
+          "breakfast": "Traditional ful medames & ta'meya",
+          "lunch": "Street food experience",
+          "dinner": "Traditional eatery"
+        },
+        "totalDayCost": 5450
+      }
+    ],
+    "createdAt": "2026-04-06T16:27:33.887Z"
+  },
+  {
+    "id": "1775493727278",
+    "userId": "1775491397050",
+    "name": "Cairo and Alexandria City Break",
+    "destination": "Cairo, Alexandria",
+    "duration": 4,
+    "budget": 9800,
+    "status": "upcoming",
+    "image": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=1200",
+    "description": "A short urban journey mixing pharaonic heritage with Mediterranean charm.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Citadel and Khan El Khalili"
+      },
+      {
+        "day": 2,
+        "title": "Bibliotheca Alexandrina"
+      },
+      {
+        "day": 3,
+        "title": "Montaza seaside walk"
+      },
+      {
+        "day": 4,
+        "title": "Alexandria seafood market"
+      }
+    ],
+    "createdAt": "2026-04-06T16:42:07.278Z"
+  },
+  {
+    "id": "1775493756681",
+    "userId": "1775491397050",
+    "name": "Egypt Tour 2 Days",
+    "destination": "Multiple Cities",
+    "duration": 2,
+    "budget": 5000,
+    "status": "draft",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800",
+    "description": "AI-generated draft trip. Review then book when ready.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1"
+      },
+      {
+        "day": 2,
+        "title": "Day 2"
+      }
+    ],
+    "createdAt": "2026-04-06T16:42:36.681Z"
+  },
+  {
+    "id": "1775493760743",
+    "userId": "1775491397050",
+    "name": "Egypt Tour 2 Days",
+    "destination": "Multiple Cities",
+    "duration": 2,
+    "budget": 5000,
+    "status": "upcoming",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800",
+    "description": "AI-generated itinerary tailored to your budget and interests.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Traditional ful medames & ta'meya",
+          "lunch": "Street food experience",
+          "dinner": "Traditional eatery"
+        },
+        "totalDayCost": 1525
+      },
+      {
+        "day": 2,
+        "title": "Day 2",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Continental breakfast",
+          "lunch": "Casual dining",
+          "dinner": "Casual dinner"
+        },
+        "totalDayCost": 1525
+      }
+    ],
+    "createdAt": "2026-04-06T16:42:40.743Z"
+  },
+  {
+    "id": "1775494845088",
+    "userId": "1775491397050",
+    "name": "Egypt Tour 5 Days",
+    "destination": "Multiple Cities",
+    "duration": 5,
+    "budget": 5000,
+    "status": "draft",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800",
+    "description": "AI-generated draft trip. Review then book when ready.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1"
+      },
+      {
+        "day": 2,
+        "title": "Day 2"
+      },
+      {
+        "day": 3,
+        "title": "Day 3"
+      },
+      {
+        "day": 4,
+        "title": "Day 4"
+      },
+      {
+        "day": 5,
+        "title": "Day 5"
+      }
+    ],
+    "createdAt": "2026-04-06T17:00:45.088Z"
+  },
+  {
+    "id": "1775495004626",
+    "userId": "1775491397050",
+    "name": "Egypt Tour 5 Days",
+    "destination": "Multiple Cities",
+    "duration": 5,
+    "budget": 5000,
+    "status": "draft",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800",
+    "description": "AI-generated draft trip. Review then book when ready.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1"
+      },
+      {
+        "day": 2,
+        "title": "Day 2"
+      },
+      {
+        "day": 3,
+        "title": "Day 3"
+      },
+      {
+        "day": 4,
+        "title": "Day 4"
+      },
+      {
+        "day": 5,
+        "title": "Day 5"
+      }
+    ],
+    "createdAt": "2026-04-06T17:03:24.626Z"
+  },
+  {
+    "id": "1775495043928",
+    "userId": "1775491397050",
+    "name": "Egypt Tour 5 Days",
+    "destination": "Multiple Cities",
+    "duration": 5,
+    "budget": 5000,
+    "status": "upcoming",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800",
+    "description": "AI-generated itinerary tailored to your budget and interests.",
+    "departureDate": "2026-04-06T00:00:00.000Z",
+    "travelers": 2,
+    "notes": "",
+    "bookingReference": "ST-95043906",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Traditional ful medames & ta'meya",
+          "lunch": "Nile-side seafood dining",
+          "dinner": "Rooftop dinner with pyramids view"
+        },
+        "totalDayCost": 1150
+      },
+      {
+        "day": 2,
+        "title": "Day 2",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Continental breakfast",
+          "lunch": "Traditional Egyptian mezze",
+          "dinner": "Traditional Egyptian feast"
+        },
+        "totalDayCost": 1150
+      },
+      {
+        "day": 3,
+        "title": "Day 3",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Authentic Egyptian breakfast",
+          "lunch": "Nubian cuisine experience",
+          "dinner": "Nile cruise dinner"
+        },
+        "totalDayCost": 1150
+      },
+      {
+        "day": 4,
+        "title": "Day 4",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Hotel buffet with Egyptian specialties",
+          "lunch": "Authentic kebab & kofta",
+          "dinner": "Bedouin-style dinner"
+        },
+        "totalDayCost": 1150
+      },
+      {
+        "day": 5,
+        "title": "Day 5",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Traditional ful medames & ta'meya",
+          "lunch": "Local koshari restaurant",
+          "dinner": "Fine dining at signature restaurant"
+        },
+        "totalDayCost": 1150
+      }
+    ],
+    "createdAt": "2026-04-06T17:04:03.928Z"
+  },
+  {
+    "id": "1775496151472",
+    "userId": "1775491397050",
+    "name": "Egypt Tour 2 Days",
+    "destination": "Multiple Cities",
+    "duration": 2,
+    "budget": 5000,
+    "status": "draft",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800",
+    "description": "AI-generated draft trip. Review then book when ready.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1"
+      },
+      {
+        "day": 2,
+        "title": "Day 2"
+      }
+    ],
+    "createdAt": "2026-04-06T17:22:31.472Z"
+  },
+  {
+    "id": "1775496160613",
+    "userId": "1775491397050",
+    "name": "Egypt Tour 2 Days",
+    "destination": "Multiple Cities",
+    "duration": 2,
+    "budget": 5000,
+    "status": "upcoming",
+    "image": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800",
+    "description": "AI-generated itinerary tailored to your budget and interests.",
+    "departureDate": "2026-04-06T00:00:00.000Z",
+    "travelers": 2,
+    "notes": "",
+    "bookingReference": "ST-96160602",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Day 1",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Traditional ful medames & ta'meya",
+          "lunch": "Street food experience",
+          "dinner": "Traditional eatery"
+        },
+        "totalDayCost": 1525
+      },
+      {
+        "day": 2,
+        "title": "Day 2",
+        "destinations": [],
+        "accommodation": "Nile Delta Hotel",
+        "meals": {
+          "breakfast": "Continental breakfast",
+          "lunch": "Casual dining",
+          "dinner": "Casual dinner"
+        },
+        "totalDayCost": 1525
+      }
+    ],
+    "createdAt": "2026-04-06T17:22:40.613Z"
+  }
+]
